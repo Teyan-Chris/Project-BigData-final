@@ -18,7 +18,7 @@ Bienvenue dans notre projet ! Voici quelques instructions et recommandations pou
 
 ## 🖥️ Visualisation du Notebook
 
-- **Recommandation** : Pour une meilleure prise en charge des mises en forme (`Markdown`, `HTML`, `CSS`), il est conseillé d'ouvrir le notebook avec :
+- **Recommandation** : Pour une meilleure prise en charge des mises en forme, mise en page (`Markdown`, `HTML`, `CSS`) et gestion des liens internes, il est conseillé d'ouvrir le notebook avec :
   - **VS Code** (avec l'extension Jupyter)
   - **Jupyter Lab / Jupyter Notebook**
 
